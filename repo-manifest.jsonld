@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/stanfordnlp/dspy/commit/c7e9752debcce5715fee62cd5f1ae538c14d5ce4",
       "git:hexsha": "c7e9752debcce5715fee62cd5f1ae538c14d5ce4",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/stanfordnlp/dspy/commit/b1da1af7b87f52de56c790dc2a407b188d70ea1a",
