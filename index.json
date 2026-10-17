@@ -1,0 +1,11 @@
+{
+  "org": "stanfordnlp",
+  "repo": "dspy",
+  "versions": [
+    {
+      "commit": "c7e9752debcce5715fee62cd5f1ae538c14d5ce4",
+      "tag": "",
+      "parsed_at": "2026-10-17T09:00:10.619877+00:00"
+    }
+  ]
+}
